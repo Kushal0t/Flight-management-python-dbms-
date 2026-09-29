@@ -18,6 +18,7 @@
 --
 -- Table structure for table `flight_list`
 --
+create database flight_management;
 
 DROP TABLE IF EXISTS `flight_list`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
